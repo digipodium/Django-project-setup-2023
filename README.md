@@ -9,11 +9,11 @@
 
 To set up a Django project with static and templates folders, you need to follow these steps:
 
-1. Install Python and Django on your computer. You can download Python(miniconda) from [here](^https://docs.conda.io/projects/miniconda/en/latest/^) and Django `pip install django`. Follow the instructions to install them properly.
+1. Install Python and Django on your computer. You can download Python(miniconda) from [here](^https://docs.conda.io/projects/miniconda/en/latest/^). Check every checkbox to install it properly.
 2. Create a folder for your project, such as `myproject`, and open it in your code editor or terminal. You can use any code editor you like, such as Visual Studio Code, PyCharm, etc.
-3. Create a virtual environment for your project using the `virtualenv` command. A virtual environment is a way to isolate your project's dependencies from other projects. To create a virtual environment, type `virtualenv env` in your terminal and press Enter. This will create a folder called `env` inside your project folder.
-4. Activate the virtual environment using the `activate` command. To activate the virtual environment, type `source env/bin/activate` in your terminal and press Enter. This will change your prompt to `(env)`.
-5. Install Django in your virtual environment using the `pip` command. Pip is a tool that helps you install Python packages. To install Django, type `pip install django` in your terminal and press Enter. This will download and install Django in your virtual environment.
+3. (optional) Create a virtual environment for your project using the `virtualenv` command. A virtual environment is a way to isolate your project's dependencies from other projects. To create a virtual environment, type `virtualenv env` in your terminal and press Enter. This will create a folder called `env` inside your project folder.
+4. (optional) Activate the virtual environment using the `activate` command. To activate the virtual environment, type `source env/bin/activate` in your terminal and press Enter. This will change your prompt to `(env)`.
+5. Install Django using the `pip` command. Pip is a tool that helps you install Python packages. To install Django, type `pip install django` in your terminal and press Enter. This will download and install Django in your environment.
 6. Create a new Django project using the `django-admin` command. Django-admin is a tool that helps you create and manage Django projects. To create a new Django project, type `django-admin startproject myproject` in your terminal and press Enter. This will create a folder called `myproject` inside your project folder, which contains some files and folders that are essential for a Django project.
 7. Run the Django server using the `manage.py` command. Manage.py is a file that helps you run various commands for your Django project. To run the Django server, type `python manage.py runserver` in your terminal and press Enter. This will start the server on your local machine and show you a message like this:
 
