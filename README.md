@@ -121,16 +121,3 @@ urlpatterns = [
 This line tells Django to call the index view function when the user visits the root URL of your website.
 
 That's it! You have successfully set up a Django project with static and templates folders. To see the result, restart the Django server by pressing Ctrl+C in your terminal and typing `python manage.py runserver` again. Then go to http://127.0.0.1:8000/ in your web browser and you should see something like this:
-
-![A web page with some text, an image, and some styling](#graphic_art("A web page with some text, an image, and some styling"))
-
-I hope you learned something useful from this tutorial. If you have any questions or feedback, please let me know. 😊
-
-Source: Conversation with Bing, 4/9/2023
-(1) Working with Django Templates & Static Files | DigitalOcean. https://www.digitalocean.com/community/tutorials/working-with-django-templates-static-files.
-(2) Django Static Files and Templates | LearnDjango.com. https://learndjango.com/tutorials/django-static-files-and-templates.
-(3) Complete Setup of Django Project In 13 Steps | Medium. https://medium.com/@umaraziz021/complete-step-up-of-django-project-in-13-simple-steps-17d394410c99.
-(4) How to manage static files (e.g. images, JavaScript, CSS) | Django .... https://docs.djangoproject.com/en/4.2/howto/static-files/.
-(5) undefined. https://docs.djangoproject.com/en/1.10/howto/static-files/.
-(6) undefined. http://127.0.0.1:8000/static/.
-(7) undefined. http://127.0.0.1:8000/static/base.css.
