@@ -9,7 +9,7 @@
 
 To set up a Django project with static and templates folders, you need to follow these steps:
 
-1. Install Python and Django on your computer. You can download Python from [here](^1^) and Django from [here](^2^). Follow the instructions on the websites to install them properly.
+1. Install Python and Django on your computer. You can download Python(miniconda) from [here](^https://docs.conda.io/projects/miniconda/en/latest/^) and Django `pip install django`. Follow the instructions to install them properly.
 2. Create a folder for your project, such as `myproject`, and open it in your code editor or terminal. You can use any code editor you like, such as Visual Studio Code, PyCharm, etc.
 3. Create a virtual environment for your project using the `virtualenv` command. A virtual environment is a way to isolate your project's dependencies from other projects. To create a virtual environment, type `virtualenv env` in your terminal and press Enter. This will create a folder called `env` inside your project folder.
 4. Activate the virtual environment using the `activate` command. To activate the virtual environment, type `source env/bin/activate` in your terminal and press Enter. This will change your prompt to `(env)`.
