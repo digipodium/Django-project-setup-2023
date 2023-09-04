@@ -1,7 +1,7 @@
-# setting up a simple django setup 
+# Setting up a simple django setup 
 
 `Team Digipodium` presents
----
+
 ## clearing some Jargon
 - `Django` is a web framework that helps you create websites using Python.
 - `Static files` are files that do not change, such as images, CSS, and JavaScript. 
