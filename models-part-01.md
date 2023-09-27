@@ -1,4 +1,4 @@
-# Django Models Tutorial
+# Django Models Tutorial - part 1
 
 Welcome to this tutorial on Django models! In this tutorial, we will cover the basics of Django models and show you how to work with models, perform queries, and apply filters to retrieve data from the database.
 Before we get started, let's first understand what Django models are and why they are essential in web development.
